@@ -5,4 +5,8 @@ Welcome to the band name generator.
 What's the name of the city you grew up in?
 What's your pet's name?
 
+
+Errors
+1. syntax error
+2. indentation error -- space, ..
 Day 2
