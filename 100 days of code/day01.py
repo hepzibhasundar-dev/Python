@@ -41,3 +41,24 @@ print("The value of pi is {:.2f}".format(pi))
 #input() function
 name = input("What is your name? ")
 print(f"Hello, {name}!")
+
+#input() function with type conversion
+age = int(input("What is your age? "))
+print(f"Hello, {name}! You are {age} years old.")
+
+#input() function with multiple inputs
+first_name = input("What is your first name? ")
+last_name = input("What is your last name? ")
+print(f"Hello, {first_name} {last_name}!")
+
+#variables and data types
+name = "Alice"  # String    
+age = 30  # Integer
+height = 5.8  # Float
+is_student = True  # Boolean
+print(f"Name: {name}, Age: {age}, Height: {height}, Is Student: {is_student}")
+
+#len() function
+name = "Alice"
+print(f"The length of the name '{name}' is {len(name)}.")
+
